@@ -36,8 +36,8 @@ python3 sword-to-sqlite.py --source SOURCE --bible_version BIBLE_VERSION
 
 | Tables        |  Description                              |
 | ------------- | ---------------------------------------:  |
-| SOURCE        | Zipped module file location (EX: KJV.zip) |
-| BIBLE_VERSION | Name of the module (EX: KJV)              |
+| SOURCE        | Zipped module file location (e.g. KJV.zip) |
+| BIBLE_VERSION | Name of the module (e.g. KJV)              |
 
 #### Example
 ```
