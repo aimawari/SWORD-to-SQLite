@@ -12,11 +12,11 @@ key_KJV (Table name is changed depend on BIBLE_VERSION)
 
 KJV (Table name is changed depend on BIBLE_VERSION)
 
-| book | chapter | verse | text                                                   |   |
-|------|---------|-------|--------------------------------------------------------|---|
-| 1    | 1       | 1     | In the beginning God created the heaven and the earth. |   |
-| 1    | 1       | 2     | And the earth was without form, and void; ...          |   |
-| ...  | ...     | ...   | ...                                                    |   |
+| book | chapter | verse | text                                                   |
+|------|---------|-------|--------------------------------------------------------|
+| 1    | 1       | 1     | In the beginning God created the heaven and the earth. |
+| 1    | 1       | 2     | And the earth was without form, and void; ...          |
+| ...  | ...     | ...   | ...                                                    |
 ```
 
 
