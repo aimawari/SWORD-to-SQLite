@@ -46,8 +46,8 @@ def generate_sqlite(source, bible_version):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-s','--source', help='Zipped module file location (EX: KJV.zip)')
-    parser.add_argument('-bv','--bible_version', help='Name of the module (EX: KJV)')
+    parser.add_argument('-s','--source', help='Zipped module file location (e.g. KJV.zip)')
+    parser.add_argument('-bv','--bible_version', help='Name of the module (e.g. KJV)')
     args = parser.parse_args()
 
     generate_sqlite(args.source, args.bible_version)
