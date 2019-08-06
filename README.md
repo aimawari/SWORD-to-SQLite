@@ -4,6 +4,7 @@ Generate .sqlite files from [SWORD project](http://crosswire.org/sword/modules/M
 
 ```
 key_KJV (Table name is changed depend on BIBLE_VERSION)
+
 | book | name    |
 |------|---------|
 | 1    | Genesis |
